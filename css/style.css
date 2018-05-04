@@ -1,0 +1,8 @@
+#root {
+  text-align: center;
+}
+
+#myCanvas {
+  width: 500px;
+  height: 500px;
+}
